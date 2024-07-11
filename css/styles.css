@@ -26,12 +26,16 @@ p {
   margin: 0;
 }
 
+img {
+  display: block;
+}
+
 a {
   text-decoration: none;
 }
 
 .container {
-  width: 1128 px;
+  max-width: 1158 px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -302,7 +306,7 @@ a {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  row-gap: 48px;
+  column-gap: 24px;
 }
 
 .portfolio-list-item-container {
