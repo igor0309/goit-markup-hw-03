@@ -181,6 +181,14 @@ a {
   gap: 24px;
 }
 
+.feature-title-list:last-child {
+  margin-right: 0;
+}
+
+.feature-title-list-item:first-child {
+  width: calc((100% - 72px) / 4);
+}
+
 .feature-title-list-item-subtitle {
   margin-bottom: 8px;
   font-family: "Roboto";
