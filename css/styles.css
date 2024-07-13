@@ -181,12 +181,12 @@ a {
   gap: 24px;
 }
 
-.feature-title-list:last-child {
-  margin-right: 0;
-}
-
 .feature-title-list-item:first-child {
   width: calc((100% - 72px) / 4);
+}
+
+.feature-title-list-item:last-child {
+  margin-right: 0;
 }
 
 .feature-title-list-item-subtitle {
