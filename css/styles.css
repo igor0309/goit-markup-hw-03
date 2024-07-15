@@ -176,14 +176,13 @@ a {
 }
 
 .feature-title-list {
-  max-width: 1148px;
   display: flex;
   align-items: center;
   gap: 24px;
 }
 
 .feature-title-list-item {
-  margin: 24px;
+  
 }
 
 .feature-title-list-item:first-child {
