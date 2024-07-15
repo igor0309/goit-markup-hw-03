@@ -181,12 +181,8 @@ a {
   gap: 24px;
 }
 
-.feature-title-list-item {
-  
-}
-
 .feature-title-list-item:first-child {
- flex-basis: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 .feature-title-list-item:last-child {
@@ -194,7 +190,6 @@ a {
 }
 
 .feature-title-list-item-subtitle {
-  margin-bottom: 8px;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -212,7 +207,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  margin-bottom: 8px;
 }
 
 .team {
