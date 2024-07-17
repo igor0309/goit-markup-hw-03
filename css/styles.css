@@ -182,9 +182,8 @@ a {
 }
 
 .feature-title-list-item:first-child {
-  flex-basis: calc((100% - 72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
-
 
 .feature-title-list-item-subtitle {
   font-family: "Roboto";
