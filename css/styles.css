@@ -181,7 +181,7 @@ a {
   gap: 24px;
 }
 
-.feature-title-list-item:first-child {
+.feature-title-list-item {
   width: calc((100% - 72px) / 4);
 }
 
