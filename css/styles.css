@@ -312,6 +312,9 @@ a {
 .portfolio-title-list-item:nth-child(3n + 1) {
   margin-right: 0;
 }
+.portfolio-list-item-subtitle {
+  margin-bottom: 8px;
+}
 
 .portfolio-list-item-subtitle-text {
   font-family: "Roboto";
@@ -321,7 +324,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  margin-bottom: 8px;
 }
 .footer {
   padding-top: 100px;
